@@ -1,0 +1,29 @@
+body{
+    margin:2% 0 0 2%;
+    color:black;
+}
+
+#gameContainer{
+    width:30%;
+    margin-top:3%;
+}
+
+.score{
+    margin-top:2%;
+    background:lightblue;
+    border:solid black 1px;
+    overflow:auto;
+}
+
+h1{
+    font-size:30px;
+    line-height:45px;
+}
+
+h3{
+    float:left;
+}
+
+#wins, #losses, #guessesRemaining, #guessesSoFar{
+    float:right;
+}
