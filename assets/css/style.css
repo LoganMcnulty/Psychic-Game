@@ -1,10 +1,14 @@
+
+
+/* I know that the HTML and CSS is dry, but my focus here was on the Javascript rather than making it look fancy */
+
 body{
     margin:2% 0 0 2%;
     color:black;
 }
 
 #gameContainer{
-    width:30%;
+    width:20%;
     margin-top:3%;
 }
 
